@@ -1,0 +1,2 @@
+var BLOCKED=['playgama.net','playgama.com','eponesh.com','gameanalytics.com','google-analytics.com','googletagmanager.com','yandex.','yastatic.'];
+self.addEventListener('fetch',function(e){var u=e.request.url;if(BLOCKED.some(function(d){return u.indexOf(d)!==-1;})){e.respondWith(new Response(JSON.stringify({stub:true}),{status:200,headers:{'Content-Type':'application/json'}}));}});

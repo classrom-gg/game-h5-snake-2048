@@ -1,0 +1,57 @@
+{
+  "name": "snake-2048",
+  "app_id": "snake-2048",
+  "cdn_base": "https://cdn.jsdelivr.net/gh/classrom-gg/game-repo-snake-2048@main/snake-2048/",
+  "urls": {
+    "dataUrl": "Build/8f11b9b4a30bc1b3ba6171bdad5ae8a3.data.unityweb",
+    "frameworkUrl": "Build/9589458c0c095280c46e27404854823f.framework.js.unityweb",
+    "codeUrl": "Build/07635d427d396a0e7463f0767b7bcf36.wasm.unityweb"
+  },
+  "files": {
+    "07635d427d396a0e7463f0767b7bcf36.wasm.unityweb": {
+      "cdn_path": "https://cdn.jsdelivr.net/gh/classrom-gg/game-repo-snake-2048@main/snake-2048/Build\\07635d427d396a0e7463f0767b7bcf36.wasm.unityweb",
+      "local_path": "Build\\07635d427d396a0e7463f0767b7bcf36.wasm.unityweb",
+      "size": 35503525,
+      "size_mb": 33.86,
+      "needs_chunk": true
+    },
+    "8f11b9b4a30bc1b3ba6171bdad5ae8a3.data.unityweb": {
+      "cdn_path": "https://cdn.jsdelivr.net/gh/classrom-gg/game-repo-snake-2048@main/snake-2048/Build\\8f11b9b4a30bc1b3ba6171bdad5ae8a3.data.unityweb",
+      "local_path": "Build\\8f11b9b4a30bc1b3ba6171bdad5ae8a3.data.unityweb",
+      "size": 11101638,
+      "size_mb": 10.59,
+      "needs_chunk": false
+    },
+    "9589458c0c095280c46e27404854823f.framework.js.unityweb": {
+      "cdn_path": "https://cdn.jsdelivr.net/gh/classrom-gg/game-repo-snake-2048@main/snake-2048/Build\\9589458c0c095280c46e27404854823f.framework.js.unityweb",
+      "local_path": "Build\\9589458c0c095280c46e27404854823f.framework.js.unityweb",
+      "size": 454643,
+      "size_mb": 0.43,
+      "needs_chunk": false
+    },
+    "b228a8456c8ebf429edc90cdefee39d8.loader.js": {
+      "cdn_path": "https://cdn.jsdelivr.net/gh/classrom-gg/game-repo-snake-2048@main/snake-2048/Build\\b228a8456c8ebf429edc90cdefee39d8.loader.js",
+      "local_path": "Build\\b228a8456c8ebf429edc90cdefee39d8.loader.js",
+      "size": 109882,
+      "size_mb": 0.1,
+      "needs_chunk": false
+    }
+  },
+  "chunks_needed": [
+    {
+      "filename": "07635d427d396a0e7463f0767b7bcf36.wasm.unityweb",
+      "path": "Build\\07635d427d396a0e7463f0767b7bcf36.wasm.unityweb",
+      "size_mb": 33.86,
+      "chunks": 2
+    }
+  ],
+  "large_files": [
+    {
+      "path": "c:\\Users\\ngocl\\Desktop\\game h5 github\\games\\snake-2048\\Build\\07635d427d396a0e7463f0767b7bcf36.wasm.unityweb",
+      "relative_path": "Build\\07635d427d396a0e7463f0767b7bcf36.wasm.unityweb",
+      "size": 35503525,
+      "size_mb": 33.86,
+      "needs_chunk": true
+    }
+  ]
+}

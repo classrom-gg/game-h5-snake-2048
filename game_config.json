@@ -1,0 +1,23 @@
+{
+  "name": "snake-2048",
+  "app_id": "snake-2048",
+  "cdn_base": "https://cdn.jsdelivr.net/gh/{username}/game-repos@main/snake-2048/",
+  "files": {
+    "loader": "Build\\b228a8456c8ebf429edc90cdefee39d8.loader.js",
+    "data": {
+      "path": "Build\\8f11b9b4a30bc1b3ba6171bdad5ae8a3.data.unityweb",
+      "size": 11101638,
+      "size_mb": 10.59,
+      "needs_chunk": false,
+      "chunks": 1
+    },
+    "wasm": {
+      "path": "Build\\07635d427d396a0e7463f0767b7bcf36.wasm.unityweb",
+      "size": 11101638,
+      "size_mb": 10.59,
+      "needs_chunk": false
+    },
+    "framework": "Build\\9589458c0c095280c46e27404854823f.framework.js.unityweb"
+  },
+  "requires_chunks": []
+}
